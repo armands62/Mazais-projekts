@@ -10,7 +10,7 @@
 ## Izmantotās tehnoloģijas
 - C++
 ## Izmantotie avoti
-https://stackoverflow.com/
-https://www.geeksforgeeks.org/
-https://www.javatpoint.com/factorial-program-in-cpp
-https://www.programiz.com/cpp-programming/examples/factorial
+- https://stackoverflow.com/
+- https://www.geeksforgeeks.org/
+- https://www.javatpoint.com/factorial-program-in-cpp
+- https://www.programiz.com/cpp-programming/examples/factorial
